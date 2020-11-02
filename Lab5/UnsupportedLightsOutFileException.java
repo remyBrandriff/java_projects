@@ -1,4 +1,5 @@
-import java.io.FileNotFoundException;
-class UnsupportedLightsOutFileException extends Exception{
+//import java.lang.Exception;
+public class UnsupportedLightsOutFileException extends Exception
+{
 
 }
